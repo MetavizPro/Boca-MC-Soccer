@@ -2,8 +2,6 @@
 Developed the Boca MC Soccer website, a youth soccer club in Santiago. The site promotes training programs, leagues, and player registration. It features club info, upcoming matches, and an engaging design focused on community support and player growth.
 # ⚽ Boca MC Soccer - Youth Soccer Club Website  
 
-![Boca MC Soccer](https://github.com/user-attachments/assets/sample-image.jpg)  
-
 Welcome to the **Boca MC Soccer** project repository! This website was developed for **Boca MC Soccer**, a youth soccer club based in **Santiago**. Built on the **WordPress platform**, it offers a user-friendly experience for player registration, match schedules, and club updates, fostering a strong soccer community.  
 
 🔗 **Live Website:** [Boca MC Soccer](http://bocamcsoccer.com/)  
@@ -20,8 +18,6 @@ Key objectives of this project:
 ✔️ **Ensure SEO optimization** to improve online visibility.  
 ✔️ **Create a responsive and mobile-friendly design** for seamless access.  
 ✔️ **Integrate social media** to boost club engagement.  
-
-![Website Preview](https://github.com/user-attachments/assets/sample-image2.jpg)  
 
 ---
 
